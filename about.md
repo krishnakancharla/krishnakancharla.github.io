@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Chaitanya Bapat
+title: Krishnaditya Kancharla
 ---
 
 {% include cv.md %}
