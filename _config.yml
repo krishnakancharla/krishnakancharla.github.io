@@ -1,12 +1,12 @@
 # Site settings
-title: Chaitanya Bapat
-email: chai.bapat@gmail.com
-description: Data monger, Technology enthusiast and Perennial optimist. # this means to ignore newlines until "baseurl:"
+title: Krishnaditya Kancharla
+email: krishnaditya4@gmail.com
+description: Machine Learning Enthusiast | DevOps Engineer | Passionate Traveller. # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ChaiBapchya.github.io" # the base hostname & protocol for your site
+url: "http://krishnakancharla.github.io" # the base hostname & protocol for your site
 twitter_username: chaibapat
-github_username:  ChaiBapchya
+github_username:  krishnakancharla
 
 # Build settings
 markdown: kramdown
