@@ -16,33 +16,33 @@
   description: Exploratory Data Analysis | Leveraging Machine Learning Algorithms to address prediction problems in cricket
   additional_classes: slideInLeft
   icon:
-    src: /images/amazon.png
+    src: /images/hs-logo.jpeg
     background_color: #E7235E
 
 - title: "Summer Intern, IBM : Summer 2017"
   description: Analyzed downtime reports for proactive Fault Prediction and Predictive Maintenance | Developed Bootstrapping scripts for DHCP, DNS configuration
   additional_classes: slideInRight
   icon:
-    src: /images/verizon_connect.jpg
+    src: /images/ibm-logo.png
     background_color: #E7235E
 
 - title: "Teaching Assistant - Applied Mathematics, Sardar Patel Institute Of Technology : July 2017 - May 2019"
   description: Undergraduate Teaching assistant for the course of Applied Mathematics under Prof. Nida Bakereywala.
   additional_classes: slideInLeft
   icon:
-    src: /images/c21u.jpeg
+    src: /images/spit-logo.jpg
     background_color: #E7235E
 
 - title: "Mathematics Teacher - Abhyudaya (NGO) : May 2018 - May 2019"
   description: Taught underprivileged school students and helped prepare them for competitive examinations like NTSE
   additional_classes: slideInRight
   icon:
-    src: /images/gatech.jpg
+    src: /images/abhyudaya-logo.jpg
     background_color: #E7235E
 - title: "Sardar Patel Institute of Technology : 2015-2019"
   description: Relevant Coursework:- Neural Networks & Fuzzy Logic, Object Oriented Programming using Java, Computer Communication & Networking, Image & Video Processing, and Operating Systems
   additional_classes: slideInRight
   icon:
-    src: /images/gatech.jpg
+    src: /images/spit-logo.jpg
     background_color: #E7235E    
 
