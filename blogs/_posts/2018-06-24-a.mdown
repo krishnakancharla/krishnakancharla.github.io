@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Springer Mountain & Amicalola Falls with OR@GT"
-date:   2018-06-24 19:47:47
-ahrefurl: https://medium.com/@chai.bapat/springer-mountains-and-amicalola-falls-with-or-gt-2d69d8cfe8c9
+title:  "Creating a custom Kafka cluster configuration using Macros in AWS CloudFormation"
+date:   2020-05-03 18:30:47
+ahrefurl: https://medium.com/@krishnakancharla/creating-a-custom-kafka-cluster-configuration-using-macros-in-aws-cloudformation-fd635fa7963f
 comments: true
-categories: travel
+categories: miscellaneous
 ---

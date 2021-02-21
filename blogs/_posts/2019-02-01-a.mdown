@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2018: Year in Review"
-date:   2019-02-01 19:47:47
-ahrefurl: https://medium.com/@chai.bapat/2018-year-in-review-6790f2b0cc35
+title:  "Preparing for the AWS Certified DevOps Engineer — Professional exam (DOP-C01)"
+date:   2021-02-20 18:11:11
+ahrefurl: https://krishnakancharla.medium.com/preparing-for-the-aws-certified-devops-engineer-professional-exam-dop-c01-8d8e58de4105
 comments: true
 categories: miscellaneous
 ---
