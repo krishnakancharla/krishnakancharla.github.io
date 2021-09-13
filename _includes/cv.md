@@ -1,9 +1,19 @@
-I'm a Cloud Engineer at Amazon Web Services(AWS). Within the AWS Premium Support organization, I work in the Global DevOps team, where we provide AWS expertise to our clients to help them setup their ML pipelines and ETL workloads on AWS cloud. Here's a quick summary about me :
+I'm a Graduate Student at UIUC pursuing my Masters in Information Science with a concentration in Data Science & Analytics. I love solving complex problems using Data Science methodologies and ML algorithms.
+
+Previously, I worked as a Cloud Engineer at Amazon Web Services(AWS). Within the ML team of the AWS Premium Support organization, I provided AWS expertise to our clients to help them setup their ML pipelines and ETL workloads on AWS cloud. Here's a quick summary about me :
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
+  <tr>
+    <td class="col-md-3">Aug 2021 - Jan 2023</td>
+    <td>
+        <strong>M.S. in Information Science (concentration in Data Science & Analytics)</strong>
+        <br>
+      University of Illinois at Urbana-Champaign, School of Information Sciences
+    </td>
+  </tr>
   <tr>
     <td class="col-md-3">July 2015 - May 2019</td>
     <td>
