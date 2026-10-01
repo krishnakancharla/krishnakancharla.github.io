@@ -2,53 +2,36 @@
 layout: base
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
-      <div style='font-size: 2em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Krishnaditya Kancharla</div>
-      <div style='font-size: 1.2em;'>
-        Cloud Engineer
+<div class="hero-profile-card" style="margin-bottom: 2.5rem;">
+  <div class="exp-top" style="margin-bottom: 1.25rem;">
+    <div class="profile-header" style="margin-bottom: 0;">
+      <img
+        src="/images/krishnaditya.jpeg"
+        alt="Krishnaditya Kancharla"
+        class="profile-avatar"
+        width="88"
+        height="88"
+      />
+      <div class="profile-identity">
+        <h1 style="font-family: var(--font-display); font-size: clamp(1.6rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -0.025em;">
+          Krishnaditya Kancharla
+        </h1>
+        <div class="role-line">Applied AI Architect @ Google · Strategic Accounts (AI FDE Org)</div>
+        <div class="loc-line">Seattle, Washington, United States · krishnaditya4@gmail.com</div>
       </div>
-      <div style='font-size: 1.2em'>
-        <a href="https://aws.amazon.com/">Amazon Web Services</a>
-      </div>
-      <br/>
-
-      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
-        <a href="cv.pdf" target='_blank' style='text-decoration: none;'>
-          <i style='color: white' class="fa fa-download"></i>
-        </a>
-        <a href="https://github.com/krishnakancharla/krishnakancharla.github.io" target='_blank' style='text-decoration: none;'>
-          <i style='color: white' class="fa fa-code-fork"></i>
-        </a>
-        <a href="cv.pdf" target='_blank' style='color: white; text-decoration: none;'>CV</a>
-      </div>
-
-      <ul class="list-inline idxIcons" style='font-size: 1.9em; margin-top: 0.5em;'>
-        <li>
-          <a href="https://github.com/krishnakancharla" target="_blank">
-            <i class="fa fa-fw fa-github"></i></a>
-        </li>
-         <li>
-          <a href="https://www.linkedin.com/in/krishna-kancharla/" target="_blank">
-            <i class="fa fa-fw fa-linkedin"></i></a>
-        </li>
-      </ul>
-    
     </div>
-   
-    <div class="col-md-2 vcenter idxHdr">
-      <a href="/images/krishnaditya.jpeg">
-        <img src="/images/krishnaditya.jpeg"
-             style="border-radius: 20px; margin: 10px; max-width: none; width:200; height:200"
-             alt="Me."/>
+
+    <div class="hero-actions" style="margin-top: 0;">
+      <a href="https://www.linkedin.com/in/krishna-kancharla/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+        <span>LinkedIn Profile ↗</span>
+      </a>
+      <a href="https://github.com/krishnakancharla" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+        <span>GitHub ↗</span>
       </a>
     </div>
   </div>
+</div>
 
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      {{ content }}
-    </div>
-  </div>
+<div class="exp-card">
+  {{ content }}
 </div>

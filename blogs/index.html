@@ -1,49 +1,174 @@
----
-layout: default
-body_class: blogs
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
+  <title>Articles &amp; Publications — Krishnaditya Kancharla</title>
+  <meta
+    name="description"
+    content="Technical articles, cloud architecture guides, and peer-reviewed machine learning publications by Krishnaditya Kancharla."
+  />
+  <link rel="icon" type="image/jpeg" href="/images/favicon.jpg" />
+  <link rel="stylesheet" href="/css/modern.css" />
+</head>
+<body>
+  <header id="site-header" class="site-navbar" role="banner">
+    <div class="site-container navbar-inner">
+      <a href="/" class="brand-link" id="blogs-brand-link">
+        <span class="brand-monogram" aria-hidden="true">KK</span>
+        <span class="brand-meta">
+          <span>Krishnaditya Kancharla</span>
+          <span class="brand-role">Applied AI @ Google</span>
+        </span>
       </a>
-        <a href="/index.html">Home</a> 
-      
-    </nav>
 
-  </div>
+      <button
+        type="button"
+        class="mobile-menu-btn"
+        id="mobile-menu-toggle"
+        aria-label="Toggle navigation menu"
+        aria-expanded="false"
+      >
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M4 6h16M4 12h16M4 18h16" stroke-linecap="round" />
+        </svg>
+      </button>
 
-</header>
-<div class="home">
+      <nav role="navigation" aria-label="Primary Navigation">
+        <ul id="primary-nav-links" class="nav-links">
+          <li><a href="/" class="nav-link-item" id="blogs-nav-home">Home</a></li>
+          <li><a href="/#my-journey" class="nav-link-item" id="blogs-nav-journey">Experience</a></li>
+          <li><a href="/about/" class="nav-link-item" id="blogs-nav-cv">CV</a></li>
+          <li><a href="/blogs/" class="nav-link-item active" id="blogs-nav-articles">Articles</a></li>
+          <li><a href="/bucketlist/" class="nav-link-item" id="blogs-nav-bucketlist">Bucket List</a></li>
+          <li><a href="/#home-footer" class="nav-cta" id="blogs-nav-contact">Get in Touch</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-  <h1 class="page-heading">Posts</h1>
+  <main class="section-block">
+    <div class="site-container">
+      <div class="section-header">
+        <div>
+          <div class="section-eyebrow">Writing &amp; Research</div>
+          <h1 class="section-title">Articles &amp; Publications</h1>
+          <p class="section-desc">
+            Technical guides on Cloud Architecture, DevOps, Distributed Streaming, and Machine Learning research.
+          </p>
+        </div>
+        <a
+          href="https://medium.com/@krishnakancharla"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-secondary"
+          id="blogs-medium-profile-btn"
+        >
+          <span>Follow on Medium ↗</span>
+        </a>
+      </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-         {% if post.ahrefurl!= null%}
-        <h2>
-          <a class="post-link" href="{{post.ahrefurl}}" target="_blank">{{ post.title }}</a>
-          {% else %}
-           <!-- <a class="post-link" href="{{post.ahrefurl}}">{{ post.title }}</a> -->
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" target="_blank">{{ post.title }}</a>
-        </h2>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+      <div class="experience-list">
+        <article class="exp-card">
+          <div class="pub-badge-row">
+            <span class="badge-tag" style="background: var(--accent-primary-soft); color: var(--accent-primary);">Medium Article</span>
+            <span class="pub-doi">February 20, 2021</span>
+          </div>
+          <h2 class="pub-title">
+            <a
+              href="https://krishnakancharla.medium.com/preparing-for-the-aws-certified-devops-engineer-professional-exam-dop-c01-8d8e58de4105"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Preparing for the AWS Certified DevOps Engineer — Professional exam (DOP-C01)
+            </a>
+          </h2>
+          <p class="pub-authors">
+            An actionable blueprint and technical study guide covering SDLC automation, configuration management, infrastructure as code, monitoring, and incident response on AWS.
+          </p>
+          <a
+            href="https://krishnakancharla.medium.com/preparing-for-the-aws-certified-devops-engineer-professional-exam-dop-c01-8d8e58de4105"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-secondary"
+            id="post-link-dop-c01"
+          >
+            <span>Read Article on Medium ↗</span>
+          </a>
+        </article>
 
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
- -->
-</div>
+        <article class="exp-card">
+          <div class="pub-badge-row">
+            <span class="badge-tag" style="background: var(--accent-primary-soft); color: var(--accent-primary);">Medium Article</span>
+            <span class="pub-doi">May 3, 2020</span>
+          </div>
+          <h2 class="pub-title">
+            <a
+              href="https://medium.com/@krishnakancharla/creating-a-custom-kafka-cluster-configuration-using-macros-in-aws-cloudformation-fd635fa7963f"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Creating a custom Kafka cluster configuration using Macros in AWS CloudFormation
+            </a>
+          </h2>
+          <p class="pub-authors">
+            Step-by-step walkthrough on extending AWS CloudFormation with Lambda-backed Macros to automate custom Apache Kafka cluster configurations.
+          </p>
+          <a
+            href="https://medium.com/@krishnakancharla/creating-a-custom-kafka-cluster-configuration-using-macros-in-aws-cloudformation-fd635fa7963f"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-secondary"
+            id="post-link-kafka-macros"
+          >
+            <span>Read Article on Medium ↗</span>
+          </a>
+        </article>
+
+        <article class="exp-card">
+          <div class="pub-badge-row">
+            <span class="badge-tag">IEEE Conference Paper</span>
+            <span class="pub-doi">DOI: 10.1109/ICACAT.2018.8933575 · 2018</span>
+          </div>
+          <h2 class="pub-title">
+            <a
+              href="https://ieeexplore.ieee.org/document/8933575"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Handwritten Signature Recognition : A Convolutional Neural Network Approach
+            </a>
+          </h2>
+          <p class="pub-authors">
+            Krishnaditya Kancharla, Varun Kamble, and Mohit Kapoor · IEEE International Conference on Advanced Computation and Telecommunication (ICACAT)
+          </p>
+          <a
+            href="https://ieeexplore.ieee.org/document/8933575"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-secondary"
+            id="post-link-ieee"
+          >
+            <span>View Paper on IEEE Xplore ↗</span>
+          </a>
+        </article>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer-section" style="padding: 2.5rem 0;">
+    <div class="site-container footer-bottom" style="margin-top: 0; border-top: none; padding-top: 0;">
+      <div>© Krishnaditya Kancharla · Applied AI @ Google</div>
+      <div style="display: flex; gap: 1.25rem;">
+        <a href="/">← Back to Portfolio Home</a>
+        <a href="/about/">CV &amp; About</a>
+        <a href="/bucketlist/">Bucket List</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/js/portfolio.js"></script>
+</body>
+</html>

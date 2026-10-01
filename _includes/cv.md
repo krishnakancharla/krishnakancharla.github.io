@@ -1,23 +1,68 @@
-I'm a Graduate Student at UIUC pursuing my Masters in Information Science with a concentration in Data Science & Analytics. I love solving complex problems using Data Science methodologies and ML algorithms.
+Currently working as an AI/ML lead for strategic engagements of Google (Applied AI Architect, Strategic Accounts — AI FDE Org) in Seattle, Washington. I'm thrilled to be at the forefront of AI, a technology poised to reshape our world as profoundly as bipedalism did for our ancestors.
 
-Previously, I worked as a Cloud Engineer at Amazon Web Services(AWS). Within the ML team of the AWS Premium Support organization, I provided AWS expertise to our clients to help them setup their ML pipelines and ETL workloads on AWS cloud. Here's a quick summary about me :
+Having 5+ years of experience working at Hyperscalers like Amazon Web Services and Google Cloud, I have implemented end-to-end ML systems for our clients, which include many of the Fortune 100 companies. Driven by the belief that AI represents humanity's next evolutionary step, I'm building intelligent systems that will push the boundaries of what's possible.
+
+
+## <i class="fa fa-chevron-right"></i> Industry & Research Experience
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>July 2025 - Present</td>
+  <td><strong>Google</strong>, Strategic Accounts (AI FDE Org), Applied AI Architect (Seattle, WA)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Aug 2024 - July 2025</td>
+  <td><strong>Amazon Web Services (AWS)</strong>, Professional Services, GenAI Solutions Architect (Seattle, WA)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Jan 2023 - Sept 2024</td>
+  <td><strong>Amazon Web Services (AWS)</strong>, Professional Services, Machine Learning Engineer - II — AI/ML Lead for Strategic Enterprise Segment (Seattle, WA)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Sept 2022 - Dec 2022</td>
+  <td><strong>University of Illinois Urbana-Champaign</strong>, Graduate Student Researcher — Machine Learning Methodologies for Social Sensing (Champaign, IL)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>May 2022 - Aug 2022</td>
+  <td><strong>Amazon Web Services (AWS)</strong>, Professional Services Org, Machine Learning Intern (Austin, TX)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Dec 2020 - Aug 2021</td>
+  <td><strong>Amazon Web Services (AWS)</strong>, AWS Premium Support, Cloud Engineer - Machine Learning (Bengaluru, India)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>July 2019 - Dec 2020</td>
+  <td><strong>Amazon Web Services (AWS)</strong>, AWS Premium Support, DevOps Associate (Bengaluru, India)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>July 2017 - April 2019</td>
+  <td><strong>Sardar Patel Institute of Technology</strong>, Teaching Assistant - Applied Mathematics (Mumbai, India)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Dec 2018 - Feb 2019</td>
+  <td><strong>headstrait</strong>, Data Science Intern (Mumbai, India)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>June 2017 - July 2017</td>
+  <td><strong>IBM</strong>, Summer Intern (Mumbai, India)</td>
+</tr>
+</table>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2021 - Jan 2023</td>
+    <td class="col-md-3">Aug 2021 - Dec 2022</td>
     <td>
-        <strong>M.S. in Information Science (concentration in Data Science & Analytics)</strong>
+        <strong>Master of Science (MS), Data Science &amp; Analytics</strong>
         <br>
-      University of Illinois at Urbana-Champaign, School of Information Sciences
+      University of Illinois Urbana-Champaign (UIUC)
     </td>
   </tr>
   <tr>
     <td class="col-md-3">July 2015 - May 2019</td>
     <td>
-        <strong>B.E. in Electronics and Telecommunication Engineering</strong>
+        <strong>Bachelor of Technology (B.Tech.), Electronics and Telecommunications Engineering</strong>
         <br>
       Sardar Patel Institute of Technology, University of Mumbai
     </td>
@@ -25,13 +70,17 @@ Previously, I worked as a Cloud Engineer at Amazon Web Services(AWS). Within the
   <tr>
     <td class="col-md-3">June 2013 - May 2015</td>
     <td>
-        <strong>High School</strong>
+        <strong>12th Grade (HSC), Science</strong>
+        <br>
+      Shri T.P. Bhatia Jr. College Of Science
     </td>
   </tr>
   <tr>
     <td class="col-md-3">November 2012</td>
     <td>
-      <strong>Rustomjee Cambridge International School</strong>
+      <strong>International General Certificate of Secondary Education (IGCSE)</strong>
+      <br>
+      Rustomjee Cambridge International School
     </td>
   </tr>
 </table>
@@ -43,76 +92,55 @@ Previously, I worked as a Cloud Engineer at Amazon Web Services(AWS). Within the
   <tr>
 <td>
     <strong>Handwritten Signature Recognition : A Convolutional Neural Network Approach</strong><br>
-    <strong> Krishnaditya Kancharla, Varun Kamble and Mohit Kapoor</strong><br>
-    IEEE<br>
-    [1]
-   [<a href='https://ieeexplore.ieee.org/document/8933575' target='_blank'>IEEE Xplore</a>]   
-<div id="abs_blockchain_for_academic_credentials" style="text-align: justify; display: none" markdown="1">
-Handwritten Signature Recognition is an important behavioral biometric which is used for numerous identification and authentication applications. There are two fundamental methods of signature recognition, on-line or off-line. On-line recognition is a dynamic form, which uses parameters like writing pace, change in stylus direction and number of pen ups and pen downs during the writing of the signature. Off-line signature recognition is a static form where a signature is handled as an image and the author of the signature is predicted based on the features of the signature. The current method of Off-line Signature Recognition predominantly employs template matching, where a test image is compared with multiple specimen images to speculate the author of the signature. This takes up a lot of memory and has a higher time complexity. This paper proposes a method of off-line signature recognition using Convolution Neural Network. The purpose of this paper is to obtain high accuracy multi-class classification with a few training signature samples.
-</div>
+    <strong>Krishnaditya Kancharla, Varun Kamble and Mohit Kapoor</strong><br>
+    IEEE International Conference on Advanced Computation and Telecommunication (ICACAT)<br>
+    [1] [<a href='https://ieeexplore.ieee.org/document/8933575' target='_blank'>IEEE Xplore</a>]
 </td>
 </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Teaching Experience
+## <i class="fa fa-chevron-right"></i> Certifications &amp; Honors
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>F2017, S2018, F2018, S2019</td>
-  <td>Sardar Patel Institute of Technology<br><strong>Applied Mathematics - I, II and III</strong> , TA</td>
+  <td class='col-md-3'>Google Cloud</td>
+  <td><strong>Professional Machine Learning Engineer Certification</strong></td>
+</tr>
+<tr>
+  <td class='col-md-3'>AWS (Q4 2020)</td>
+  <td><strong>AWS Superstar of the Quarter - Q4 2020</strong></td>
+</tr>
+<tr>
+  <td class='col-md-3'>AWS</td>
+  <td><strong>4x AWS Certifications</strong> · Amazon Machine Learning University Graduate · AWS Tier-2 Speaker Certified Professional</td>
 </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Industry Experience
+## <i class="fa fa-chevron-right"></i> Technical Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Dec 2020 - Present</td>
-  <td><strong>Amazon Web Services</strong>, AWS Premium Support, Cloud Engineer - I (DevOps)</td>
+  <td class='col-md-2'>Areas of Expertise</td>
+  <td markdown="1">
+Machine Learning, Exploratory Data Analysis, Data Manipulation, Feature Engineering, Linux System Administration, DevOps, Site Reliability, Cloud Solution Architecture, Natural Language Processing
+  </td>
 </tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>July 2019 - Nov 2020</td>
-  <td><strong>Amazon Web Services</strong>, AWS Premium Support, Cloud Support Associate (DevOps)</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Dec 2018 - Feb 2019</td>
-  <td><strong>Headstrait Software</strong>, Data Science Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>June 2017 - July 2017</td>
-  <td><strong>IBM India</strong>, Summer Intern</td>
-</tr>
-<tr>
-</tr>
-</table>
-
-
-
-## <i class="fa fa-chevron-right"></i> Skills
-<table class="table table-hover">
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-Python, Java, C, Bash, C++, CSS, HTML, JavaScript, LaTeX, R
+Python3, C, C++, Java, Go, HTML, CSS, Bash Scripting, MySQL, R
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Frameworks</td>
+  <td class='col-md-2'>ML &amp; Data Science</td>
   <td markdown="1">
-     NumPy, Pandas, SciPy, scikit-learn, TensorFlow, PyTorch, Spark, Hadoop, Android SDK/NDK, Node.js, AWS SDK
+NumPy, Pandas, Sklearn, Seaborn, TensorFlow, PyTorch, Tableau, Power BI, QuickSight
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Systems</td>
+  <td class='col-md-2'>Frameworks &amp; DevOps</td>
   <td markdown="1">
-Linux, OSX
+Apache Hadoop, Spark, Kafka, Jenkins, Terraform, Chef, Ansible, Puppet, ECS, CodeDeploy, Cloud Functions, Docker, Kubernetes, Solr, HHVM, memcached, MongoDB, Git, Flask API
   </td>
 </tr>
 </table>
-
